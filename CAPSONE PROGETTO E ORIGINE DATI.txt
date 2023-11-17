@@ -1,0 +1,15 @@
+ARGOMENTO SCELTO : MUSICA
+Progetto di fine corso sulla canzoni, artisti e generi più popolari e con più followers degli ultimi anni.
+Dataset di tabelle con specifiche degli artisti identificati con una PrimaryKey e altrettanto per i generi.
+
+Programmi utilizzati per fare i report :
+
+Excel utilizzato sia per la pulizia dei dati originari ( eliminazione dupplicati e right/colonne vuote )
+
+(fonte dati sito free dataset da internet : https://zenodo.org/record/4778563 , dataset : MGD: Music Genre Dataset ) e sia per la creazione di un report con
+grafici e utilizzzo di PowerQuery per funzioni Merge di tabelle.
+
+PowerBi per creazione di un report più elaborato rispetto ad excel con migliorie nei grafici e visualizzazione
+dei dati più importanti e creazione di relazioni tra le tabelle.
+
+Grazie, Ahsan
